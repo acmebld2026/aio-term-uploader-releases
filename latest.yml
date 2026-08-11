@@ -1,8 +1,8 @@
-version: 0.2.16
+version: 0.2.17
 files:
-  - url: AIO-Term-Uploader-0.2.16-Setup.exe
-    sha512: 5IkeUsukglV0fsKGAkqP6G62xXMM9Yl7Ov1cwgdy3XlQ9EUKkHMnPPO8gxCH3ZlFB1jM6SizoH/NvBzpeiuPEA==
-    size: 103300118
-path: AIO-Term-Uploader-0.2.16-Setup.exe
-sha512: 5IkeUsukglV0fsKGAkqP6G62xXMM9Yl7Ov1cwgdy3XlQ9EUKkHMnPPO8gxCH3ZlFB1jM6SizoH/NvBzpeiuPEA==
-releaseDate: '2026-08-11T07:43:19.856Z'
+  - url: AIO-Term-Uploader-0.2.17-Setup.exe
+    sha512: R778QVnlSdKX6PpPIENYhBZjByvx8PPm7CqCOupTJpzXbXjCIOpXDJ5ywLxQrBGybw4d+8g7TwLrQDksRlkMrA==
+    size: 103864555
+path: AIO-Term-Uploader-0.2.17-Setup.exe
+sha512: R778QVnlSdKX6PpPIENYhBZjByvx8PPm7CqCOupTJpzXbXjCIOpXDJ5ywLxQrBGybw4d+8g7TwLrQDksRlkMrA==
+releaseDate: '2026-08-11T08:23:51.819Z'
